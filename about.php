@@ -39,7 +39,7 @@
             </div>
 
             <div class="blocks2">
-                <div class="block2">
+                <div class="container">
                     <img src="images/game2.svg" alt="">
                     <span>Lorem ipsum</span>   
                     <h2>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h3>

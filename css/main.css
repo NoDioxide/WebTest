@@ -373,7 +373,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-bottom: 40px;
 }
 
-.work .blocks {
+.work .blocks, .work .blocks2 {
     display: flex;
     justify-content: space-between;
 }
@@ -405,6 +405,24 @@ header nav ul li.btn a:hover, .email .block button:hover {
 
 .work .blocks .block .badge.green {
     background: #192A1D;
+}
+
+.work .blocks2 .block2 {
+    margin-top: 200px;
+    width: 100%;
+    padding: 50px 35px;
+    background: #1C140F;
+}
+
+.work .blocks2 .block2 img {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+
+.work .blocks2 .block2 h2 {
+    font-size: 28;
+    margin: 20px 0;
 }
 
 
